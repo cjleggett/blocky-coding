@@ -1,0 +1,9 @@
+#define B2 123.47
+#define C3 130.81
+#define CSHARP3 138.59
+#define D3 146.83
+#define C4 261.63
+#define E4 329.63
+#define G4 392.00
+#define D5 587.33
+#define A5 880.00
